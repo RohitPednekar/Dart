@@ -17,5 +17,13 @@ void main() {
   int d  = 40;
   d = d~/40;
   print(d);
+  //increment
+  var e = 10;
+  print(e++);
+  print(e);
+  //decrement
+  var f = 10;
+  print(f--);
+  print(f);
     
 }
